@@ -1,0 +1,2 @@
+dao.UsuarioDAO
+DAO.NewClass
